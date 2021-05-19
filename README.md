@@ -1,6 +1,6 @@
 <h3> problem_sets</h3>
 
-<h4>in build/classess/problem_set.java all methods required to solve :</h4>
+<h4>in build/classes/problem_sets/problem_sets.java all methods required to solve :</h4>
 <ul>
 <li>Given a string, write a function to check if it is a permutation of a palindrome. A
 palindrome is a word or phrase that is the same forwards and backwards. A
